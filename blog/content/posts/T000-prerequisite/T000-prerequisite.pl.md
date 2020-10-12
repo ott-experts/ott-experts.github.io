@@ -33,10 +33,22 @@ Przyda nam się także materiał audio i video do pracy. Użyjemy krótkometraż
 Warto także mieć na pokładzie kilka dodatkowych narzędzi (nie są niezbędne, ale pomocne).
 Ja podaję metodę instalacji (przeważnie) najszybszą z użyciem homebrew. 
 Możesz użyć jakiejkolwiek innej metody czy to ze źródeł, czy auto-instalatora.
-- git ```bash brew install git``` 
-- python3 ```bash brew install python3```
-- golang ```brew install golang```
-  + [instalacja i konfiguracja golang za pomoca homebrew](https://medium.com/@jimkang/install-go-on-mac-with-homebrew-5fa421fc55f5))
-- nodejs ```brew install node```
+- git 
+```bash
+brew install git
+``` 
+- python3
+```bash
+brew install python3
+```
+- golang
+  + [instalacja i konfiguracja golang za pomoca homebrew](https://medium.com/@jimkang/install-go-on-mac-with-homebrew-5fa421fc55f5)
+```bash
+brew install golang
+```
+- nodejs 
+```bash
+brew install node
+```
 
 Teraz mamy już wszystko aby zacząć zabawę.
